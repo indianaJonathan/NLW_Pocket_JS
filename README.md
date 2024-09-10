@@ -1,3 +1,5 @@
+![nlw-pocket](https://github.com/user-attachments/assets/662b632b-3010-4eaa-8118-bc37169ec1ce)
+
 # in-orbit
 
 [English](#en-us) - [Português](#pt-br)
@@ -37,9 +39,9 @@ npm run dev
 _(*) - Opcional_
 
 ### Rotas desenvolvidas
-[x] Criar uma nova meta
-[x] Registrar conclusão da meta
-[x] Buscar metas da semana
+- [x] Criar uma nova meta
+- [x] Registrar conclusão da meta
+- [x] Buscar metas da semana
 
 > Essa aplicação foi criada durante o evento [NLW Pocket JS](https://www.youtube.com/watch?v=7LRQ93tju1A) da [Rocketseat](https://www.rocketseat.com.br/)
 
@@ -79,8 +81,8 @@ npm run dev
 _(*) - Optional_
 
 ### Developed routes
-[x] Create new goal
-[x] Register goal completion
-[x] Get week goals
+- [x] Create new goal
+- [x] Register goal completion
+- [x] Get week goals
 
 > This application were created during the event [NLW Pocket JS](https://www.youtube.com/watch?v=7LRQ93tju1A) by [Rocketseat](https://www.rocketseat.com.br/)
