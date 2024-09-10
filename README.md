@@ -42,6 +42,7 @@ _(*) - Opcional_
 - [x] Criar uma nova meta
 - [x] Registrar conclusão da meta
 - [x] Buscar metas da semana
+- [x] Resumo da semana
 
 > Essa aplicação foi criada durante o evento [NLW Pocket JS](https://www.youtube.com/watch?v=7LRQ93tju1A) da [Rocketseat](https://www.rocketseat.com.br/)
 
@@ -84,5 +85,6 @@ _(*) - Optional_
 - [x] Create new goal
 - [x] Register goal completion
 - [x] Get week goals
+- [x] Get week summary
 
 > This application were created during the event [NLW Pocket JS](https://www.youtube.com/watch?v=7LRQ93tju1A) by [Rocketseat](https://www.rocketseat.com.br/)
